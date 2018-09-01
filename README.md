@@ -1,6 +1,6 @@
 # PoeRP
 
-Rich presence for Discord for Path of Exile game
+Rich presence for Discord for Path of Exile
 
 ## How to use
 1. Clone this repository
