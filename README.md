@@ -3,8 +3,7 @@
 Rich presence for Discord for Path of Exile
 
 ## How to use
-1. Clone this repository
+1. Download latest release from releases tab
 2. Go to https://www.python.org/ and download Python 3+
-3. Launch launcher.bat
+3. Launch launcher.exe
 4. Complete initialization
-5. Here you are :)
