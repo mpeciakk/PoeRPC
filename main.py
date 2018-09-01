@@ -3,11 +3,11 @@ import time
 import requests
 import json
 
-client_id = 'your_client_id'
+client_id = ''
 
-logsPath = 'path_to_path_of_exile\\logs\\Client.txt'
+logsPath = ''
 
-accountName = 'FollowTM'
+accountName = ''
 
 RPC = Presence(client_id)
 RPC.connect()
